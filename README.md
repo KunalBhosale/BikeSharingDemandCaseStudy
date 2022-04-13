@@ -19,7 +19,7 @@ How well those variables describe the bike demands
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Linear regression model build with features which are significant in deciding the demand for rental bikes. R-squared value of the model: 0.573        
+Linear regression model build with features which are significant in deciding the demand for rental bikes. R-squared value of the model: 0.534        
 Significant Features impacting the demand for bike sharing:
 i) Temperature – higher the temperature good booking number
 ii) LightRain - impacts bike booking negatively
